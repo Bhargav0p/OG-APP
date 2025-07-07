@@ -23,5 +23,4 @@ Welcome to Apogee App, the one-stop app for all your fest needs! With this app, 
 We hope you enjoy using Apogee App and have a great concert experience!
 
 
-https://github.com/dvm-bitspilani/APOGEE-2023-app/assets/96655704/0e4742ad-11ac-4c97-a2b5-7af74989b966
 
