@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "1060603960568",
+    "project_id": "apogee-2023",
+    "storage_bucket": "apogee-2023.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060603960568:android:9ccc021382a230df102f0d",
+        "android_client_info": {
+          "package_name": "com.dvm.apogee2022"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1060603960568-dbhvcpmhnltmbkgfaoovkeg5ta73lbnf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dvm.apogee2022",
+            "certificate_hash": "860543f98cc31bd473e59e7faa88bd3f03ab1b75"
+          }
+        },
+        {
+          "client_id": "1060603960568-epive287h2su82agqtmgmncho0skmal9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dvm.apogee2022",
+            "certificate_hash": "06e8a5601e6e96c37bd10161873e8d72dd78c525"
+          }
+        },
+        {
+          "client_id": "1060603960568-g9m1fkibu72tn7ird2bbu1g5po3loivm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dvm.apogee2022",
+            "certificate_hash": "0e471feef0a58d4358ee50166f60765fa1df9a90"
+          }
+        },
+        {
+          "client_id": "1060603960568-hiv1ggfjj6bt7ht9hi8fgrp7gqtmp2bb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACcnUBkwA9EAiokzSmhfchej0I4MM57c0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1060603960568-hiv1ggfjj6bt7ht9hi8fgrp7gqtmp2bb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1060603960568-k87pu4isjliojmm03v74lqp9sqmkmjup.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dvm.apogee2022"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060603960568:android:fbd694ae559ca58c102f0d",
+        "android_client_info": {
+          "package_name": "com.example.vendorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1060603960568-hiv1ggfjj6bt7ht9hi8fgrp7gqtmp2bb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACcnUBkwA9EAiokzSmhfchej0I4MM57c0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1060603960568-hiv1ggfjj6bt7ht9hi8fgrp7gqtmp2bb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1060603960568-k87pu4isjliojmm03v74lqp9sqmkmjup.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dvm.apogee2022"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
